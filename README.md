@@ -7,10 +7,13 @@ The All_Parts_3_Plates.3mf file contains all the parts laid out with slicer sett
 
 The remaining files are for the individual components.
 
-Parts HandleCenter and HandleOuter need to be printed with 100% infill, as they provide the pressure (approx 1kg of force)
+Parts HandleCenter and HandleOuter need to be printed with 100% infill, as they provide the weight (approx 1kg of force on the stamp)
 I found best success with 0.16mm layer height, with the high quality preset in Bambu Studio. 
 
 Some parts need multiple copies printed:
+
 FrameNut and FrameScrew x4
+
 BaseNut and BaseScrew x2
+
 HandleOuter and HandleNut x2
